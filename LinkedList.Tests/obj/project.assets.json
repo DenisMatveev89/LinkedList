@@ -4649,11 +4649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Den\\Desktop\\Cloud Mail.Ru\\C# Base\\LinkedListProject\\LinkedList.Tests\\LinkedList.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedList.Tests\\LinkedList.Tests.csproj",
       "projectName": "LinkedList.Tests",
-      "projectPath": "C:\\Users\\Den\\Desktop\\Cloud Mail.Ru\\C# Base\\LinkedListProject\\LinkedList.Tests\\LinkedList.Tests.csproj",
+      "projectPath": "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedList.Tests\\LinkedList.Tests.csproj",
       "packagesPath": "C:\\Users\\Den\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Den\\Desktop\\Cloud Mail.Ru\\C# Base\\LinkedListProject\\LinkedList.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedList.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Den\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4669,8 +4669,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Den\\Desktop\\Cloud Mail.Ru\\C# Base\\LinkedListProject\\LinkedListProject\\LinkedListProject.csproj": {
-              "projectPath": "C:\\Users\\Den\\Desktop\\Cloud Mail.Ru\\C# Base\\LinkedListProject\\LinkedListProject\\LinkedListProject.csproj"
+            "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedListProject\\LinkedListProject.csproj": {
+              "projectPath": "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedListProject\\LinkedListProject.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ciU+RwVFJhP+JrWS8LmfETU4Viy6taFPx0G9Qucc2qhFg6kppnM3hKWPuAS7BaTlca54IZQ0MSnvASi1qaO7VQ==",
+  "dgSpecHash": "L1lqM5fyQNC8ysShA3V5fmBY7VIYi25aH0OHTZsiOvvX1b77flWeEdemp3rY4qieBCzBJE5hCCf4/IA6Ij2plg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Den\\Desktop\\Cloud Mail.Ru\\C# Base\\LinkedListProject\\LinkedList.Tests\\LinkedList.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedList.Tests\\LinkedList.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Den\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\Den\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
