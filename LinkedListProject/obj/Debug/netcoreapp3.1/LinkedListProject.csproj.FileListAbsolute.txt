@@ -1,0 +1,13 @@
+C:\Users\Den\Desktop\Cloud Mail.Ru\C# Base\LinkedListProject\LinkedListProject\bin\Debug\netcoreapp3.1\LinkedListProject.exe
+C:\Users\Den\Desktop\Cloud Mail.Ru\C# Base\LinkedListProject\LinkedListProject\bin\Debug\netcoreapp3.1\LinkedListProject.deps.json
+C:\Users\Den\Desktop\Cloud Mail.Ru\C# Base\LinkedListProject\LinkedListProject\bin\Debug\netcoreapp3.1\LinkedListProject.runtimeconfig.json
+C:\Users\Den\Desktop\Cloud Mail.Ru\C# Base\LinkedListProject\LinkedListProject\bin\Debug\netcoreapp3.1\LinkedListProject.runtimeconfig.dev.json
+C:\Users\Den\Desktop\Cloud Mail.Ru\C# Base\LinkedListProject\LinkedListProject\bin\Debug\netcoreapp3.1\LinkedListProject.dll
+C:\Users\Den\Desktop\Cloud Mail.Ru\C# Base\LinkedListProject\LinkedListProject\bin\Debug\netcoreapp3.1\LinkedListProject.pdb
+C:\Users\Den\Desktop\Cloud Mail.Ru\C# Base\LinkedListProject\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.csprojAssemblyReference.cache
+C:\Users\Den\Desktop\Cloud Mail.Ru\C# Base\LinkedListProject\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.AssemblyInfoInputs.cache
+C:\Users\Den\Desktop\Cloud Mail.Ru\C# Base\LinkedListProject\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.AssemblyInfo.cs
+C:\Users\Den\Desktop\Cloud Mail.Ru\C# Base\LinkedListProject\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.csproj.CoreCompileInputs.cache
+C:\Users\Den\Desktop\Cloud Mail.Ru\C# Base\LinkedListProject\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.dll
+C:\Users\Den\Desktop\Cloud Mail.Ru\C# Base\LinkedListProject\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.pdb
+C:\Users\Den\Desktop\Cloud Mail.Ru\C# Base\LinkedListProject\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.genruntimeconfig.cache
