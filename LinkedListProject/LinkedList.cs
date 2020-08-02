@@ -264,27 +264,17 @@ namespace LinkedListProject
         public bool Contains(int value) 
         {
             Node currentNode = Head;
-
-            for (int i = 0; i < _countL / 2; i++)
+            bool result=false;
+            for (int i = 0; i < _countL; i++)
             {
                 if (currentNode.Value == value)
                 {
                     _firstFound = i;
-                    return true;
+                    return  result=true;
                 }
                 currentNode = currentNode.Next;
             }
-            for (int i = _countL / 2 - 1; i < _countL; i++)
-            {
-                if (currentNode.Value == value)
-                {
-                    _firstFound = i;
-                    return true;
-                }
-                currentNode = currentNode.Next;
-            }
-
-            return false;
+            return result;
         }
         // Вернёт индекс первого найденного элемента, равного val(или -1, если элементов с таким значением в списке.
         public int IndexOf(int value)
