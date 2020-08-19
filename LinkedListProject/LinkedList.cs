@@ -18,15 +18,6 @@ namespace LinkedListProject
         private int _indexMin;
 
         public LinkedList() { }
-        public LinkedList(int[] array)
-        {
-            for (int i = 0; i < array.Length; i++)
-            {
-                AddLast(array[i]);
-                _countL++;
-            }
-            _length = array.Length;
-        }
         public LinkedList(int value)
         {
 
@@ -48,12 +39,12 @@ namespace LinkedListProject
             _length++;
         }
         // Добавление массива в конец списка
-        public void AddLast(int[] array)
+        public void AddLast(int[] values)
         {
-            Node node = new Node(array);
-            for (int i = 0; i < array.Length; i++)
+            Node node = new Node();
+            for (int i = 0; i < values.Length; i++)
             {
-                AddLast(array[i]);
+                AddLast(values[i]);
                 // _length++;
             }
             //_length += array.Length;
@@ -69,12 +60,12 @@ namespace LinkedListProject
             _length++;
         }
         // Добавление массива в начало списка
-        public void AddFirst(int[] array)
+        public void AddFirst(int[] values)
         {
-            Node node = new Node(array);
-            for (int i = array.Length - 1; i >= 0; i--)
+            Node node = new Node();
+            for (int i = values.Length - 1; i >= 0; i--)
             {
-                AddFirst(array[i]);
+                AddFirst(values[i]);
             }
             //_length += array.Length;
         }
@@ -113,13 +104,13 @@ namespace LinkedListProject
 
         }
         // Вставка массива в список по указанному индексу.
-        public void AddAt(int index, int[] array)
+        public void AddAt(int index, int[] values)
         {
             if (index < 0 || index > _countL - 1)
             {
                 throw new Exception("Error");
             }
-            for (int i = 1; i < array.Length + 1; i++)
+            for (int i = 1; i < values.Length + 1; i++)
             {
                 AddAt(index - 1, i);
                 index++;

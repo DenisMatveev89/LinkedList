@@ -6,17 +6,10 @@ namespace LinkedListProject
 {
     public class Node
     {
-        private int[] array;
-
         public Node() { }
         public Node(int value)
         {
             Value = value;
-        }
-
-        public Node(int[] array)
-        {
-            this.array = array;
         }
 
         public int Value { get; set; }

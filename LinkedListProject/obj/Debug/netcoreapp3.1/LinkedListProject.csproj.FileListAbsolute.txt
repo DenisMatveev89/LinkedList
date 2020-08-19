@@ -24,3 +24,16 @@ C:\Users\Den\Desktop\LinkedList\LinkedListProject\obj\Debug\netcoreapp3.1\Linked
 C:\Users\Den\Desktop\LinkedList\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.dll
 C:\Users\Den\Desktop\LinkedList\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.pdb
 C:\Users\Den\Desktop\LinkedList\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.genruntimeconfig.cache
+C:\Users\djmat\OneDrive\Рабочий стол\LinkedList\LinkedListProject\bin\Debug\netcoreapp3.1\LinkedListProject.exe
+C:\Users\djmat\OneDrive\Рабочий стол\LinkedList\LinkedListProject\bin\Debug\netcoreapp3.1\LinkedListProject.deps.json
+C:\Users\djmat\OneDrive\Рабочий стол\LinkedList\LinkedListProject\bin\Debug\netcoreapp3.1\LinkedListProject.runtimeconfig.json
+C:\Users\djmat\OneDrive\Рабочий стол\LinkedList\LinkedListProject\bin\Debug\netcoreapp3.1\LinkedListProject.runtimeconfig.dev.json
+C:\Users\djmat\OneDrive\Рабочий стол\LinkedList\LinkedListProject\bin\Debug\netcoreapp3.1\LinkedListProject.dll
+C:\Users\djmat\OneDrive\Рабочий стол\LinkedList\LinkedListProject\bin\Debug\netcoreapp3.1\LinkedListProject.pdb
+C:\Users\djmat\OneDrive\Рабочий стол\LinkedList\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.csprojAssemblyReference.cache
+C:\Users\djmat\OneDrive\Рабочий стол\LinkedList\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.AssemblyInfoInputs.cache
+C:\Users\djmat\OneDrive\Рабочий стол\LinkedList\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.AssemblyInfo.cs
+C:\Users\djmat\OneDrive\Рабочий стол\LinkedList\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.csproj.CoreCompileInputs.cache
+C:\Users\djmat\OneDrive\Рабочий стол\LinkedList\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.dll
+C:\Users\djmat\OneDrive\Рабочий стол\LinkedList\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.pdb
+C:\Users\djmat\OneDrive\Рабочий стол\LinkedList\LinkedListProject\obj\Debug\netcoreapp3.1\LinkedListProject.genruntimeconfig.cache

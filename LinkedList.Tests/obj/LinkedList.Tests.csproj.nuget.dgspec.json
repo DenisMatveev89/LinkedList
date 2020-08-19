@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedList.Tests\\LinkedList.Tests.csproj": {}
+    "C:\\Users\\djmat\\OneDrive\\Рабочий стол\\LinkedList\\LinkedList.Tests\\LinkedList.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedList.Tests\\LinkedList.Tests.csproj": {
+    "C:\\Users\\djmat\\OneDrive\\Рабочий стол\\LinkedList\\LinkedList.Tests\\LinkedList.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedList.Tests\\LinkedList.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\djmat\\OneDrive\\Рабочий стол\\LinkedList\\LinkedList.Tests\\LinkedList.Tests.csproj",
         "projectName": "LinkedList.Tests",
-        "projectPath": "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedList.Tests\\LinkedList.Tests.csproj",
-        "packagesPath": "C:\\Users\\Den\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedList.Tests\\obj\\",
+        "projectPath": "C:\\Users\\djmat\\OneDrive\\Рабочий стол\\LinkedList\\LinkedList.Tests\\LinkedList.Tests.csproj",
+        "packagesPath": "C:\\Users\\djmat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\djmat\\OneDrive\\Рабочий стол\\LinkedList\\LinkedList.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Den\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\djmat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedListProject\\LinkedListProject.csproj": {
-                "projectPath": "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedListProject\\LinkedListProject.csproj"
+              "C:\\Users\\djmat\\OneDrive\\Рабочий стол\\LinkedList\\LinkedListProject\\LinkedListProject.csproj": {
+                "projectPath": "C:\\Users\\djmat\\OneDrive\\Рабочий стол\\LinkedList\\LinkedListProject\\LinkedListProject.csproj"
               }
             }
           }
@@ -70,21 +70,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedListProject\\LinkedListProject.csproj": {
+    "C:\\Users\\djmat\\OneDrive\\Рабочий стол\\LinkedList\\LinkedListProject\\LinkedListProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedListProject\\LinkedListProject.csproj",
+        "projectUniqueName": "C:\\Users\\djmat\\OneDrive\\Рабочий стол\\LinkedList\\LinkedListProject\\LinkedListProject.csproj",
         "projectName": "LinkedListProject",
-        "projectPath": "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedListProject\\LinkedListProject.csproj",
-        "packagesPath": "C:\\Users\\Den\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Den\\Desktop\\LinkedList\\LinkedListProject\\obj\\",
+        "projectPath": "C:\\Users\\djmat\\OneDrive\\Рабочий стол\\LinkedList\\LinkedListProject\\LinkedListProject.csproj",
+        "packagesPath": "C:\\Users\\djmat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\djmat\\OneDrive\\Рабочий стол\\LinkedList\\LinkedListProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Den\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\djmat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -122,7 +122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
